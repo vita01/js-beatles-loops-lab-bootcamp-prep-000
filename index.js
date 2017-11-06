@@ -7,4 +7,27 @@ function iLoveTheBeatles(musicians,instruments){
   }
   return arr;
 }
+function johnLennonFacts(arr){
+  let len=arr.length-1;
+   while(len>0){
+   arr[len]+'!!!';
+   len--;
+     
+   }
+  return arr;
+}
+function  iLoveTheBeatles(num){
+let arr=[];
 
+if(num<15){
+let i=0;
+  while(i<num){
+ arr.push(«Я люблю Beatles!»);
+ 
+    
+  }
+  
+}
+return arr;
+  
+}
