@@ -22,7 +22,7 @@ let arr=[];
 if(num<15){
 let i=0;
   while(i<num){
- arr.push('Я люблю the Beatles!');
+ arr.push('I love the Beatles!');
 i++;
 
   }
