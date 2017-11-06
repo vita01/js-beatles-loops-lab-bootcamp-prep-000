@@ -12,7 +12,7 @@ function johnLennonFacts(arr){
    while(len>0){
    arr[len]+'!!!';
    len--;
-     
+
    }
   return arr;
 }
@@ -22,12 +22,12 @@ let arr=[];
 if(num<15){
 let i=0;
   while(i<num){
- arr.push(«Я люблю Beatles!»);
- 
-    
+ arr.push('Я люблю Beatles!');
+
+
   }
-  
+
 }
 return arr;
-  
+
 }
